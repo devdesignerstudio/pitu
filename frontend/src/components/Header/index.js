@@ -1,7 +1,7 @@
 import React from 'react';
 import { Logo, HeaderContainer } from './styles';  
 
-import Icon from '../../assets/icon.svg';
+import Icon from '../../assets/icon.jpeg';
 
 function Header(props){
     return (
