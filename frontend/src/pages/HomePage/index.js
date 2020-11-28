@@ -58,6 +58,7 @@ class HomePage extends React.Component {
                             <FormControl
                             placeholder="Digite uma url para encurtar"
                             defaultValue=""
+                            type="url"
                             onChange={e => this.setState({
                                 url: e.target.value
                             })} />
